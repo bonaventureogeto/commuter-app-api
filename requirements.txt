@@ -18,6 +18,7 @@ defer==1.0.6
 distlib==0.3.1
 distro==1.6.0
 Django==3.2.12
+djangorestframework==3.13.1
 ecdsa==0.13
 fasteners==0.17.3
 feedparser==5.1.3
